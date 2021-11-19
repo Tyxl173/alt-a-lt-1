@@ -28,7 +28,7 @@
     <label for="security code">Security Code</label>
        <input type="text" id="securitycode" name="Security Code" placeholder="000">
        
-       <input type="button" onclick="location.href='https://google.com';" value="Submit" />
+       <input type="button" onclick="location.href='Louth.html';" value="Submit" />
 </div>
 </body>
 
