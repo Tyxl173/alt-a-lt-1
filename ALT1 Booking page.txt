@@ -27,7 +27,8 @@
        <input type="text" id="expiry" name="Expiry Date" placeholder="MM/YY">
     <label for="security code">Security Code</label>
        <input type="text" id="securitycode" name="Security Code" placeholder="000">
-       <input type="submit" value="Submit">
+       
+       <input type="button" onclick="location.href='https://google.com';" value="Submit" />
 </div>
 </body>
 
