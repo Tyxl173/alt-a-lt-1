@@ -33,6 +33,21 @@
     <input type="text" id="securitycode" name="Security Code" placeholder="000">
        
        <input type="button" onclick="location.href='Louth.html';" value="Submit" />
+<script type="text/javascript">
+
+     document.getElementById("myButton").onclick = function () {
+    if (window.confirm('All your data has been stored and saved'))
+    {
+       location.href = "https://www.google.com/";
+    }
+    else
+    {
+
+    }
+
+    }
+
+    </script>
 </div>
 </body>
 
